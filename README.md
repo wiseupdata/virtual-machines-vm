@@ -12,7 +12,7 @@
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.virtual-machines-vm&left_color=green&right_color=black) 
-![license](https://img.shields.io/github/license/wiseupdata/virtual-machines-vm?style=plastic)
+![license](https://img.shields.io/github/license/wiseupdata/virtual-machines-vm)
 
 ---
 
