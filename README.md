@@ -26,6 +26,30 @@
 # VMs
 
 
+<details>
+<summary>
+    Install GUI RDP, remote desktop in one VM 
+</summary>
+
+### test
+
+> hi
+
+```
+hello
+```
+
+### Let's install the Chrome 🚀️
+
+
+```
+sudo apt update
+```
+</details>
+
+<br>
+
+
 # References
 
 1. [Wise Up Data](https://github.com/wiseupdata)
