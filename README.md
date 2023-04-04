@@ -24,3 +24,27 @@
 
 
 # VMs
+
+
+# References
+
+1. [Wise Up Data](https://github.com/wiseupdata)
+
+---
+
+<br>
+<br>
+
+
+
+
+---
+
+#### Maintainer 🤗 👨‍💻
+
+Sivio Liborio
+
+📧 silvio.liborio@wiseupdata.com
+
+<a href="https://www.linkedin.com/in/silvio-de-melo-liborio">silvio-de-melo-liborio <img align="left" alt="LinkedIN" width="18px" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/linkedin.svg" />
+</a>
