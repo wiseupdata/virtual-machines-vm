@@ -26,7 +26,7 @@
 <br>
 <details>
 <summary>
-    Information 
+    Information 🍩
 </summary>
 
 > X2Go is a remote desktop software solution that enables you to access graphical desktops of Linux servers over a low bandwidth connection. It is a fast and lightweight alternative to other remote desktop protocols, such as VNC or RDP.
@@ -46,11 +46,11 @@
 
 <details>
 <summary>
-    Installation
+    Installation 🧑‍💻
 </summary>
 
 
-### Let's update the Ubuntu system 👀️
+### Let's update the Ubuntu system
 
 ```
 sudo apt update
@@ -99,10 +99,10 @@ sudo systemctl start x2goserver
 
 <details>
 <summary>
-    Extra - Install the X2Go Client in the Windows 11
+    Extra - Install the X2Go Client in the Windows 11 ♨️
 </summary>
 
-### Let's update the Ubuntu system 👀️
+### Let's update the Ubuntu system ✈️
 
 ```
 sudo apt update
@@ -119,9 +119,10 @@ sudo apt upgrade
 
 
 
-# References 🎉️
+# References 📚
 
 1. [Wise Up Data](https://github.com/wiseupdata)
+1. [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 <br><br>
 ---
