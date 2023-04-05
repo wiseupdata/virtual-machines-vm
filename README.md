@@ -30,7 +30,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-<img align="left" alt="gif" src="assets/update.gif" width="700" />
+<img align="center" alt="gif" src="assets/update.gif" width="700" />
 </img>
 
 ##
