@@ -135,6 +135,7 @@ sudo service x2goserver status
 # References 📚
 
 1. [Wise Up Data](https://github.com/wiseupdata)
+1. [RDP alternative](https://www.youtube.com/watch?v=Moscv2moML8)
 1. [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 <br><br>
