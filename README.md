@@ -63,7 +63,7 @@ sudo apt install xfce4
 sudo systemctl start x2goserver
 ```
 
-<img align="left" alt="gif" src="assets/x2goserver.gif" width="700" />
+<img align="center" alt="gif" src="assets/x2goserver.gif" width="700" />
 
 </details>
 
