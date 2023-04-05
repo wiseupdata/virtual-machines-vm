@@ -23,6 +23,7 @@
     Install GUI RDP, remote desktop in one VM 🚀️
 </summary>
 
+<br>
 <details>
 <summary>
     Information 
@@ -45,7 +46,7 @@
 
 <details>
 <summary>
-    Installation 🚀️
+    Installation
 </summary>
 
 
@@ -98,7 +99,7 @@ sudo systemctl start x2goserver
 
 <details>
 <summary>
-    Extra - Install the X2Go Client in the Windows 11 🚀️
+    Extra - Install the X2Go Client in the Windows 11
 </summary>
 
 ### Let's update the Ubuntu system 👀️
