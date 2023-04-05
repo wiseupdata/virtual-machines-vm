@@ -39,12 +39,17 @@
 hello
 ```
 
-### Let's install the Chrome 🚀️
+### Let's update the system the Chrome 🚀️
 
 
 ```
 sudo apt update
+sudo apt upgrade
 ```
+
+<img align="left" alt="DP-203" src="assets/update.gif" width="400" />
+
+<br>
 </details>
 
 <br>
