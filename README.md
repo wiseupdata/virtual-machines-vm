@@ -11,7 +11,7 @@
   <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/200536ac97c85161cdfea6de4fc9b271ba197c2d/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.virtual-machines-vm&left_color=green&right_color=black) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.virtual-machines-vm&left_color=green&right_color=black)
 ![license](https://img.shields.io/github/license/wiseupdata/virtual-machines-vm)
 
 ---
@@ -22,17 +22,15 @@
 <br>
 <br>
 
-
 # VMs
-
 
 <details>
 <summary>
-    Install GUI RDP, remote desktop in one VM 
+    Install GUI RDP, remote desktop in one VM 🚀️
 </summary>
 
+### Let's update the Ubuntu system 👀️
 
-### Let's update the Ubuntu system
 ```
 sudo apt update
 sudo apt upgrade
@@ -43,8 +41,8 @@ sudo apt upgrade
 </p>
 <br>
 
-
 ### Install the X2Go server
+
 ```
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:x2go/stable
@@ -56,7 +54,27 @@ sudo apt install x2goserver x2goserver-xsession
 <img align="left" alt="gif" src="assets/x2go.gif" width="600" />
 </p>
 <br>
+<br>
+<br>
+<br>
+<br>
 
+### Install the xfce4 server
+
+```
+sudo apt install xfce4
+```
+
+<p>
+<img align="left" alt="gif" src="assets/xfce4.gif" width="600" />
+</p>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 </details>
 
@@ -69,8 +87,7 @@ sudo apt install x2goserver x2goserver-xsession
 <br>
 <br>
 
-
-# References
+# References 🎉️ 
 
 1. [Wise Up Data](https://github.com/wiseupdata)
 
@@ -78,9 +95,6 @@ sudo apt install x2goserver x2goserver-xsession
 
 <br>
 <br>
-
-
-
 
 ---
 
