@@ -18,12 +18,6 @@
 
 <a name="readme-top"></a>
 
-<h1>
-<br>
-<br>
-
-# VMs
-
 <details>
 <summary>
     Install GUI RDP, remote desktop in one VM 🚀️
@@ -38,18 +32,6 @@ sudo apt upgrade
 
 <img align="left" alt="gif" src="assets/update.gif" width="700" />
 </img>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Install the X2Go server
 
@@ -62,18 +44,6 @@ sudo apt install x2goserver x2goserver-xsession
 
 <img align="left" alt="gif" src="assets/x2go.gif" width="700" />
 </img>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Install the xfce4 server
 
@@ -81,23 +51,10 @@ sudo apt install x2goserver x2goserver-xsession
 sudo apt install xfce4
 ```
 
+##
+
 <img align="left" alt="gif" src="assets/xfce4.gif" width="700" />
 </img>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ### Start the X2Go server
 ```
@@ -105,31 +62,14 @@ sudo systemctl start x2goserver
 ```
 
 <img align="left" alt="gif" src="assets/x2goserver.gif" width="700" />
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 </details>
-
-<br>
-<br>
-
 
 # References 🎉️ 
 
 1. [Wise Up Data](https://github.com/wiseupdata)
 
 ---
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
