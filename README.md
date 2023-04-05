@@ -97,6 +97,7 @@ sudo apt-get install ubuntu-gnome-desktop
 
 ```
 sudo systemctl start x2goserver
+sudo service x2goserver status
 ```
 
 <img align="center" alt="gif" src="assets/x2goserver.gif" width="700" />
