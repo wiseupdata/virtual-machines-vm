@@ -65,8 +65,13 @@ sudo systemctl start x2goserver
 
 <img align="center" alt="gif" src="assets/x2goserver.gif" width="700" />
 
+<br>
+<br>
 
-### Information
+<details>
+<summary>
+    Information 🚀️
+</summary>
 
 > X2Go is a remote desktop software solution that enables you to access graphical desktops of Linux servers over a low bandwidth connection. It is a fast and lightweight alternative to other remote desktop protocols, such as VNC or RDP.
 > 
@@ -81,6 +86,28 @@ sudo systemctl start x2goserver
 > Overall, X2Go is a reliable and efficient option for setting up RDP on your Ubuntu VM in Cloud.
 
 </details>
+
+<details>
+<summary>
+    Extra - Install the X2Go Client in the Windows 11 🚀️
+</summary>
+
+### Let's update the Ubuntu system 👀️
+
+```
+sudo apt update
+sudo apt upgrade
+```
+
+<img align="center" alt="gif" src="assets/update.gif" width="700" />
+</img>
+<br>
+
+</details>
+
+</details>
+
+
 
 # References 🎉️
 
