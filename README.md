@@ -102,14 +102,13 @@ sudo systemctl start x2goserver
     Extra - Install the X2Go Client in the Windows 11 ♨️
 </summary>
 
-### Let's update the Ubuntu system ✈️
+### Let's download the client ✈️
 
-```
-sudo apt update
-sudo apt upgrade
-```
+[X2GoClient](https://wiki.x2go.org/doku.php/doc:installation:x2goclient)
 
-<img align="center" alt="gif" src="assets/update.gif" width="700" />
+
+
+<img align="center" alt="gif" src="assets/x2goclientdownload.gif" width="700" />
 </img>
 <br>
 
