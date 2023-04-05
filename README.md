@@ -37,6 +37,7 @@ sudo apt upgrade
 ```
 
 <img align="left" alt="gif" src="assets/update.gif" width="700" />
+</img>
 <br>
 
 ### Install the X2Go server
@@ -49,6 +50,7 @@ sudo apt install x2goserver x2goserver-xsession
 ```
 
 <img align="left" alt="gif" src="assets/x2go.gif" width="700" />
+</img>
 <br>
 <br>
 <br>
@@ -62,6 +64,7 @@ sudo apt install xfce4
 ```
 
 <img align="left" alt="gif" src="assets/xfce4.gif" width="700" />
+</img>
 <br>
 
 <br>
