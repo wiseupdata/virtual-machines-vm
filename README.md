@@ -24,46 +24,69 @@
 </summary>
 
 ### Let's update the Ubuntu system 👀️
+
 ```
 sudo apt update
 sudo apt upgrade
 ```
+
 <img align="center" alt="gif" src="assets/update.gif" width="700" />
 </img>
-<br />
+<br>
 
 ### Install the X2Go server
+
 ```
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:x2go/stable
 sudo apt update
 sudo apt install x2goserver x2goserver-xsession
 ```
+
 <img align="center" alt="gif" src="assets/x2go.gif" width="700" />
 </img>
-<br />
+<br>
 
 ### Install the xfce4 server
+
 ```
 sudo apt install xfce4
 ```
+
 <img align="center" alt="gif" src="assets/xfce4.gif" width="700" />
 </img>
-<br />
+<br>
 
 ### Start the X2Go server
+
 ```
 sudo systemctl start x2goserver
 ```
+
 <img align="center" alt="gif" src="assets/x2goserver.gif" width="700" />
+
+
+# Informations
+
+> X2Go is a remote desktop software solution that enables you to access graphical desktops of Linux servers over a low > bandwidth connection. It is a fast and lightweight alternative to other remote desktop protocols, such as VNC or RDP.
+> 
+> X2Go is a good choice for setting up RDP on your Ubuntu VM running in Oracle Cloud for several reasons:
+> 
+> - It is open-source and free.
+> - It provides a secure remote desktop solution by using the SSH protocol for encryption.
+> - It supports various desktop environments, such as Xfce, Mate, LXDE, KDE, and more.
+> - It is easy to install and configure on Ubuntu.
+> - It has a low memory footprint, making it suitable for low-spec VMs.
+> 
+> Overall, X2Go is a reliable and efficient option for setting up RDP on your Ubuntu VM in Oracle Cloud.
 
 </details>
 
-# References 🎉️ 
+# References 🎉️
 
 1. [Wise Up Data](https://github.com/wiseupdata)
 
-<br /><br />
+<br><br>
 ---
 
 #### Maintainer 🤗 👨‍💻
