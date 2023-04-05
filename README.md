@@ -39,6 +39,17 @@ sudo apt upgrade
 <img align="left" alt="gif" src="assets/update.gif" width="700" />
 </img>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Install the X2Go server
 
