@@ -31,27 +31,33 @@
     Install GUI RDP, remote desktop in one VM 
 </summary>
 
-### test
 
-> hi
-
-```
-hello
-```
-
-### Let's update the system the Chrome 🚀️
-
-
+### Let's update the Ubuntu system
 ```
 sudo apt update
 sudo apt upgrade
 ```
 
 <p>
-<img align="left" alt="DP-203" src="assets/update.gif" width="600" />
-
+<img align="left" alt="gif" src="assets/update.gif" width="600" />
 </p>
 <br>
+
+
+### Install the X2Go server
+```
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:x2go/stable
+sudo apt update
+sudo apt install x2goserver x2goserver-xsession
+```
+
+<p>
+<img align="left" alt="gif" src="assets/x2go.gif" width="600" />
+</p>
+<br>
+
+
 </details>
 
 <br>
