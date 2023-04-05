@@ -67,6 +67,11 @@ sudo apt install x2goserver x2goserver-xsession
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Install the xfce4 server
 
