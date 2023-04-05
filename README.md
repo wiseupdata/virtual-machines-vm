@@ -84,6 +84,15 @@ sudo apt install xfce4
 </img>
 <br>
 
+
+### You can also install the gnome
+
+```
+sudo apt-get install ubuntu-gnome-desktop
+```
+
+
+
 ### Start the X2Go server
 
 ```
