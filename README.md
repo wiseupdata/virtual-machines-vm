@@ -106,11 +106,11 @@ sudo systemctl start x2goserver
 
 [X2GoClient](https://wiki.x2go.org/doku.php/doc:installation:x2goclient)
 
-
-
 <img align="center" alt="gif" src="assets/x2goclientdownload.gif" width="700" />
 </img>
 <br>
+
+- Install the software
 
 </details>
 
