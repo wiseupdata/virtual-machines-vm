@@ -36,9 +36,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-<p>
-<img align="left" alt="gif" src="assets/update.gif" width="600" />
-</p>
+<img align="left" alt="gif" src="assets/update.gif" width="700" />
 <br>
 
 ### Install the X2Go server
@@ -50,9 +48,7 @@ sudo apt update
 sudo apt install x2goserver x2goserver-xsession
 ```
 
-<p>
-<img align="left" alt="gif" src="assets/x2go.gif" width="600" />
-</p>
+<img align="left" alt="gif" src="assets/x2go.gif" width="700" />
 <br>
 <br>
 <br>
@@ -65,9 +61,7 @@ sudo apt install x2goserver x2goserver-xsession
 sudo apt install xfce4
 ```
 
-<p>
-<img align="left" alt="gif" src="assets/xfce4.gif" width="600" />
-</p>
+<img align="left" alt="gif" src="assets/xfce4.gif" width="700" />
 <br>
 
 <br>
@@ -82,9 +76,7 @@ sudo apt install xfce4
 sudo systemctl start x2goserver
 ```
 
-<p>
-<img align="left" alt="gif" src="assets/x2goserver.gif" width="600" />
-</p>
+<img align="left" alt="gif" src="assets/x2goserver.gif" width="700" />
 <br>
 
 <br>
