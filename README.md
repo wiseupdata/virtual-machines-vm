@@ -76,6 +76,23 @@ sudo apt install xfce4
 <br>
 <br>
 
+
+### Start the X2Go server
+```
+sudo systemctl start x2goserver
+```
+
+<p>
+<img align="left" alt="gif" src="assets/x2goserver.gif" width="600" />
+</p>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 </details>
 
 <br>
