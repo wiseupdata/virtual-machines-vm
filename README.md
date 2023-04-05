@@ -66,9 +66,9 @@ sudo systemctl start x2goserver
 <img align="center" alt="gif" src="assets/x2goserver.gif" width="700" />
 
 
-# Informations
+### Information
 
-> X2Go is a remote desktop software solution that enables you to access graphical desktops of Linux servers over a low > bandwidth connection. It is a fast and lightweight alternative to other remote desktop protocols, such as VNC or RDP.
+> X2Go is a remote desktop software solution that enables you to access graphical desktops of Linux servers over a low bandwidth connection. It is a fast and lightweight alternative to other remote desktop protocols, such as VNC or RDP.
 > 
 > X2Go is a good choice for setting up RDP on your Ubuntu VM running in Oracle Cloud for several reasons:
 > 
