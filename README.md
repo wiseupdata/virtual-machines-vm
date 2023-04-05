@@ -24,44 +24,37 @@
 </summary>
 
 ### Let's update the Ubuntu system 👀️
-
 ```
 sudo apt update
 sudo apt upgrade
 ```
-
 <img align="center" alt="gif" src="assets/update.gif" width="700" />
 </img>
-<br/>
+<br />
 
 ### Install the X2Go server
-
 ```
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:x2go/stable
 sudo apt update
 sudo apt install x2goserver x2goserver-xsession
 ```
-
 <img align="center" alt="gif" src="assets/x2go.gif" width="700" />
 </img>
+<br />
 
 ### Install the xfce4 server
-
 ```
 sudo apt install xfce4
 ```
-
-##
-
 <img align="center" alt="gif" src="assets/xfce4.gif" width="700" />
 </img>
+<br />
 
 ### Start the X2Go server
 ```
 sudo systemctl start x2goserver
 ```
-
 <img align="center" alt="gif" src="assets/x2goserver.gif" width="700" />
 
 </details>
@@ -70,8 +63,7 @@ sudo systemctl start x2goserver
 
 1. [Wise Up Data](https://github.com/wiseupdata)
 
----
-
+<br /><br />
 ---
 
 #### Maintainer 🤗 👨‍💻
