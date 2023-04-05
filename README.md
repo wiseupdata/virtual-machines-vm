@@ -47,7 +47,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-<img align="left" alt="DP-203" src="assets/update.gif" width="400" />
+<img align="left" alt="DP-203" src="assets/update.gif" width="600" />
 
 <br>
 </details>
