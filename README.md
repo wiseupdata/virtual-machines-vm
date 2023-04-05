@@ -44,7 +44,7 @@ sudo apt update
 sudo apt install x2goserver x2goserver-xsession
 ```
 
-<img align="left" alt="gif" src="assets/x2go.gif" width="700" />
+<img align="center" alt="gif" src="assets/x2go.gif" width="700" />
 </img>
 
 ### Install the xfce4 server
@@ -55,7 +55,7 @@ sudo apt install xfce4
 
 ##
 
-<img align="left" alt="gif" src="assets/xfce4.gif" width="700" />
+<img align="center" alt="gif" src="assets/xfce4.gif" width="700" />
 </img>
 
 ### Start the X2Go server
